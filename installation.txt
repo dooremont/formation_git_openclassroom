@@ -1,0 +1,13 @@
+##############################
+##
+## Comment utiliser ce script
+##
+##############################
+
+
+il suffit de copier le fichier script.sh
+dans le répertoire de votre serveur
+
+## lancer ##
+
+sh script.sh
